@@ -1,0 +1,23 @@
+#medium-range::-webkit-slider-runnable-track {
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    transparent calc(20% - 2px),
+    #FCA5A5 calc(20% - 2px),
+    #FCA5A5 20%,
+    transparent 20%,
+    transparent calc(40% - 2px),
+    #FDBA74 calc(40% - 2px),
+    #FDBA74 40%,
+    transparent 40%,
+    transparent calc(60% - 2px),
+    #FCD34D calc(60% - 2px),
+    #FCD34D 60%,
+    transparent 60%,
+    transparent calc(80% - 2px),
+    #AAF683 calc(80% - 2px),
+    #AAF683 80%,
+    transparent 80%,
+    transparent 100%
+  );
+}
